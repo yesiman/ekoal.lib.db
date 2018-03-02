@@ -30,3 +30,4 @@ D:\_DEV\__CURRENT\ekoal.lib.db\bin\Release\zh-CN\Npgsql.resources.dll
 D:\_DEV\__CURRENT\ekoal.lib.db\obj\Release\db.csprojResolveAssemblyReference.cache
 D:\_DEV\__CURRENT\ekoal.lib.db\obj\Release\db.dll
 D:\_DEV\__CURRENT\ekoal.lib.db\obj\Release\db.pdb
+D:\_DEV\__CURRENT\ekoal.lib.db\obj\Release\db.csproj.CoreCompileInputs.cache

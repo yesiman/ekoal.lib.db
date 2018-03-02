@@ -27,6 +27,7 @@ D:\_DEV\__CURRENT\ekoal.lib.db\bin\Debug\fi\Npgsql.resources.dll
 D:\_DEV\__CURRENT\ekoal.lib.db\bin\Debug\fr\Npgsql.resources.dll
 D:\_DEV\__CURRENT\ekoal.lib.db\bin\Debug\ja\Npgsql.resources.dll
 D:\_DEV\__CURRENT\ekoal.lib.db\bin\Debug\zh-CN\Npgsql.resources.dll
+D:\_DEV\__CURRENT\ekoal.lib.db\obj\Debug\db.csproj.CoreCompileInputs.cache
 D:\_DEV\__CURRENT\ekoal.lib.db\obj\Debug\db.dll
 D:\_DEV\__CURRENT\ekoal.lib.db\obj\Debug\db.pdb
 D:\_DEV\__CURRENT\ekoal.lib.db\obj\Debug\db.csprojResolveAssemblyReference.cache
